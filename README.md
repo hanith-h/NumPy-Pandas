@@ -33,7 +33,6 @@ numpy_and_pandas/
 │
 ├── NumPy.ipynb      # My first experiments with NumPy
 ├──Pandas.ipynb      # My first experiments with Pandas
-├── pandas_practice.ipynb     # My first experiments with Pandas
 └── README.md                 # Project documentation
 ```
 ---
